@@ -1,0 +1,27 @@
+h3{
+    top: 50%;
+    left: 50%;
+    translate: (-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+
+.container{
+    top: 50%;
+    left: 50%;
+    translate: (-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#grid{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
